@@ -1,0 +1,1 @@
+cmd_/home/cdac-admin/Desktop/Saurabh_DeviceDriver/DeviceDriver_Day1/string/str_main.mod := { echo  /home/cdac-admin/Desktop/Saurabh_DeviceDriver/DeviceDriver_Day1/string/str_main.o;  echo; } > /home/cdac-admin/Desktop/Saurabh_DeviceDriver/DeviceDriver_Day1/string/str_main.mod
